@@ -1,0 +1,7 @@
+.largefont, .largefont p{font-size:16px;}
+.skt-eauto-notice-container{width:100%; padding:15px 0 15px 0;}
+.skt-eauto-notice-img{float:left; text-align:left; width:13%;}
+.skt-eauto-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.skt-eauto-notice-heading{font-size:20px; font-weight:600;}
+.skt-eauto-clear{clear:both;}
+#accordion-section-example_1 .accordion-section-title:after{display:none; visibility:hidden;}
